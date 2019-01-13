@@ -1,0 +1,11 @@
+email   pass    fullName   login_key    login_email_confirm
+acb     123     ABC                     off  
+acb     123     ABC         t3123       on                  
+acb     123     ABC         t3123       off                 
+
+
+
+PHP Mailer: https://myaccount.google.com/u/0/lesssecureapps
+
+
+http://tuts.zendvn.com/confirm_email/confirm_login.php?email=lthlan54@gmail.com&code=0d1c2290&time=1542972920
